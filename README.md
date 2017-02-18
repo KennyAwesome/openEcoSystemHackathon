@@ -1,7 +1,7 @@
 # openEcoSystemHackathon
 For the Nokia Hackathon
 
-h3>MQTT installation and running</h3>
+<h3>MQTT installation and running</h3>
 
 To install mosquitto (MQTT server) on a Mac with brew installed issue:
 brew install mosquitto
